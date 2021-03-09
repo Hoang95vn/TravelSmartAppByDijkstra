@@ -1,0 +1,21 @@
+0,Dien Bien,508,137
+1,Hai Phong,888,178
+2,Thanh Hoa,724,229
+3,Ha Noi,774,166
+4,Vinh,771,293
+5,Dong Hoi,856,347
+6,Hue,969,424
+7,Da Nang,1021,440
+8,Tam Ky,1064,471
+9,Pleiku,1021,505
+10,Buon Ma Thuoc,1024,568
+11,Quy Nhon,1110,515
+12,Tuy Hòa,1143,565
+13,Nha Trang,1142,619
+14,Da Lat,1029,655
+15,Tp Ho Chí Minh,879,724
+16,Rach Gia,726,763
+17,Can Tho,850,784
+18,Ca Mau,707,848
+19,Phú Quoc,612,760
+20,Con Ðao,853,859
